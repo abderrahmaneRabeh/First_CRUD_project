@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First_CRUD_project/static/css/main.daddba37.css",
+    "main.js": "/First_CRUD_project/static/js/main.ae272718.js",
+    "static/js/787.90eaf2fb.chunk.js": "/First_CRUD_project/static/js/787.90eaf2fb.chunk.js",
+    "index.html": "/First_CRUD_project/index.html",
+    "main.daddba37.css.map": "/First_CRUD_project/static/css/main.daddba37.css.map",
+    "main.ae272718.js.map": "/First_CRUD_project/static/js/main.ae272718.js.map",
+    "787.90eaf2fb.chunk.js.map": "/First_CRUD_project/static/js/787.90eaf2fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daddba37.css",
+    "static/js/main.ae272718.js"
+  ]
+}
